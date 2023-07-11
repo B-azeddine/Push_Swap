@@ -10,12 +10,12 @@ A visual example of push_swap with a small stack
 - [The Push Swap Program 💻](#the-push-swap-program-)
 - [The Checker Program ✅](#the-checker-program-)
 - [Compilation](#Compilation)
-- [Testing 🧪](#Testing-)
-- [Change <N> with the stack size to sort](#Change-<N>-with-the-stack-size-to-sort)
+- [Testing 🧪](#testing-)
+- [Change <N> with the stack size to sort](#change-<N>-with-the-stack-size-to-sort)
 - [Sorting of a Small Stack 📊](#Sorting-of-a-Small-Stack-)
 - [Sorting of a large Stack 📊](#Sorting-of-a-large-Stack-)
-- [Objectives 🎯](#Objectives-)
-- [Skills obtained 🏅](#Skills-obtained-)
+- [Objectives 🎯](#sbjectives-)
+- [Skills obtained 🏅](#skills-obtained-)
 
 ## <p align="center"> Project Overview 💡 </p>
 This project comprises an interesting case study regarding sorting algorithms and its performances, being part of the core curriculum of all 42 schools worldwide. The task is simple: given a sequence of random numbers disposed in a stack data structure (stack A), sort them with the help of an empty auxiliary stack (stack B) and a set of specific stack operations. The operations allowed are described as follows, as written in our task:
