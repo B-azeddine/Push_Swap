@@ -5,7 +5,7 @@ _Swap push is strange, isn't it???_
 A visual example of push_swap with a small stack
 ##  <p align="center">Index👈</p>
 
-- [Project Overview 💡](#Project-Overview)
+- [Project Overview💡](#Project-Overview)
 - [The Push Swap Program 💻](#The-Push-Swap-Program)
 - [The Checker Program ✅](#The-Checker-Program)
 - [Compilation](#Compilation)
