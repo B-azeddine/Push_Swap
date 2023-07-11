@@ -10,14 +10,14 @@ A visual example of push_swap with a small stack
 - [The Push Swap Program 💻](#the-push-swap-program-)
 - [The Checker Program ✅](#the-checker-program-)
 - [Compilation](#Compilation)
-- [Testing🧪](#testing)
+- [Testing 🧪](#testing-)
 - [Change N with the stack size to sort](#change-n-with-the-stack-size-to-sort)
 - [Sorting of a Small Stack 📊](#Sorting-of-a-Small-Stack-)
 - [Sorting of a large Stack 📊](#Sorting-of-a-large-Stack-)
 - [Objectives 🎯](#objectives-)
 - [Skills Obtained 🏅](#skills-obtained-)
 
-## <p align="center"> Project Overview 💡 </p>
+## <p align="center">Project Overview 💡</p>
 This project comprises an interesting case study regarding sorting algorithms and its performances, being part of the core curriculum of all 42 schools worldwide. The task is simple: given a sequence of random numbers disposed in a stack data structure (stack A), sort them with the help of an empty auxiliary stack (stack B) and a set of specific stack operations. The operations allowed are described as follows, as written in our task:
 
 - `pa`  (push A) : Take the first element at the top of B and put it at the top of A. Do nothing if B is empty.
@@ -66,7 +66,7 @@ Both the `checker` or `push_swap` executables will result in an error if a stack
 ## <p align="center">Compilation</p>
 You must have installed make and `clang` to compile this project. The execution of the make command will generate the binaries for both `checker` and `push_swap` and the libraries needed to the compilation.
 
-##  <p align="center">Testing 🧪 </p>
+##  <p align="center">Testing 🧪</p>
 To run the integrated tests, you must have installed the `Python 3.6+`, perl and `libipc-run3-perl` packages on your system. The unit tests may be executed by running the make test command. To run the simple integrated tests on your system, you can use the runner.pl helper script.
     
     perl runner.pl 100
@@ -79,7 +79,7 @@ Running with the `--checker` option will invoke the checker program to check if 
 Running with the `--count` option will count the number of instructions needed to sort the stack with the wc program.
 The visual tests can be seen with the help of Emmanuel Ruaud testing Python script. His work is truly helpful, and I encourage you to star it at push_swap_visualizer. To run it, simply run the following command:
 
-## <p align="center"> Change <N> with the stack size to sort</p>
+## <p align="center">Change N with the stack size to sort</p>
 
 python3 pyviz.py `perl -e "use List::Util 'shuffle'; print join(' ', shuffle(0..(<N> - 1)))"`
 The Algorithm
@@ -106,7 +106,7 @@ Here, it's interesting to have some kind of smart_rotate function, which will ro
 
 We can then proceed to sort the remaining chunks, until we have the stack A completely sorted. At the end, it's important to move the smaller element with the help of smart_rotate.
 
-## <p align="center"> Objectives 🎯</p>
+## <p align="center">Objectives 🎯</p>
 
 The grade depends on how efficient the program's sorting process is.
 
@@ -126,7 +126,7 @@ The grade depends on how efficient the program's sorting process is.
     + 1 point for less than 11500
 Validating the project requires at least 80/100.
 
-## <p align="center">Skills obtained 🏅 :</p>
+## <p align="center">Skills obtained 🏅</p>
 
 Certainly! Here's a list without explanations:
 
