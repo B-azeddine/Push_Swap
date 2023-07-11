@@ -11,7 +11,7 @@ A visual example of push_swap with a small stack
 - [The Checker Program ✅](#the-checker-program-)
 - [Compilation](#Compilation)
 - [Testing🧪](#testing-)
-- [Change <N> with the stack size to sort](#change-<N>-with-the-stack-size-to-sort)
+- [Change &lt;N&gt; with the stack size to sort](#change-n-with-the-stack-size-to-sort)
 - [Sorting of a Small Stack 📊](#Sorting-of-a-Small-Stack-)
 - [Sorting of a large Stack 📊](#Sorting-of-a-large-Stack-)
 - [Objectives 🎯](#objectives-)
