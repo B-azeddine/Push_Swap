@@ -6,7 +6,7 @@ A visual example of push_swap with a small stack
 
 ##  <p align="center">Index👈</p>
 
-- [Project Overview💡](#project-overview)
+- [Project Overview 💡](#project-overview)
 - [The Push Swap Program 💻](#the-push-swap-program)
 - [The Checker Program ✅](#the-checker-program)
 - [Compilation](#Compilation)
