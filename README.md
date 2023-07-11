@@ -6,9 +6,9 @@ A visual example of push_swap with a small stack
 
 ##  <p align="center">Index👈</p>
 
-- [Project Overview💡](#project-pverview)
-- [The Push Swap Program 💻](#The-push-swap-program)
-- [The Checker Program ✅](#The-Checker-Program)
+- [Project Overview💡](#project-overview)
+- [The Push Swap Program 💻](#the-push-swap-program)
+- [The Checker Program ✅](#the-checker-program)
 - [Compilation](#Compilation)
 - [Testing 🧪](#Testing)
 - [Change <N> with the stack size to sort](#Change-<N>-with-the-stack-size-to-sort)
