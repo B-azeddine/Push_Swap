@@ -14,7 +14,7 @@ A visual example of push_swap with a small stack
 - [Change <N> with the stack size to sort](#change-<N>-with-the-stack-size-to-sort)
 - [Sorting of a Small Stack 📊](#Sorting-of-a-Small-Stack-)
 - [Sorting of a large Stack 📊](#Sorting-of-a-large-Stack-)
-- [Objectives 🎯](#Objectives-)
+- [Objectives 🎯](#objectives-)
 - [Skills Obtained 🏅](#skills-obtained-)
 
 ## <p align="center"> Project Overview 💡 </p>
