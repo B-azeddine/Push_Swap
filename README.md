@@ -96,7 +96,7 @@ In this example, a stack of 100 random integers is generated, and the push_swap 
 Running the script without arguments will print the instructions to `STDOUT`;
 Running with the `--checker` option will invoke the checker program to check if the instructions will sort the stack correctly;
 Running with the `--count` option will count the number of instructions needed to sort the stack with the wc program.
-The visual tests can be seen with the help of Emmanuel Ruaud testing Python script. His work is truly helpful, and I encourage you to star it at push_swap_visualizer. To run it, simply run the following command:
+The visual tests can be seen with the help of Emmanuel Ruaud testing Python script. His work is truly helpful, and I encourage you to star it at [push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer). To run it, simply run the following command:
 
         Change <N> with the stack size to sort
         python3 pyviz.py `perl -e "use List::Util 'shuffle'; print join(' ', shuffle(0..(<N> - 1)))"`
