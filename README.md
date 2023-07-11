@@ -1,10 +1,6 @@
 # Push_swap
-_Swap push is strange, isn't it???_
-![push_swap_small](https://github.com/B-azeddine/push_swap_final/assets/74467756/a7c4c2b9-05a9-47c8-9be3-723b05a7941a)
 
-A visual example of push_swap with a small stack
-
-##  <p align="center">Index👈</p>
+##  <p align="center">INDEX 👈</p>
 
 - [Project Overview 💡](#project-overview-)
 - [The Push Swap Program 💻](#the-push-swap-program-)
@@ -18,6 +14,12 @@ A visual example of push_swap with a small stack
 - [Skills Obtained 🏅](#skills-obtained-)
 
 ## <p align="center">Project Overview 💡</p>
+
+_Swap push is strange, isn't it???_
+![push_swap_small](https://github.com/B-azeddine/push_swap_final/assets/74467756/a7c4c2b9-05a9-47c8-9be3-723b05a7941a)
+
+A visual example of push_swap with a small stack
+
 This project comprises an interesting case study regarding sorting algorithms and its performances, being part of the core curriculum of all 42 schools worldwide. The task is simple: given a sequence of random numbers disposed in a stack data structure (stack A), sort them with the help of an empty auxiliary stack (stack B) and a set of specific stack operations. The operations allowed are described as follows, as written in our task:
 
 - `pa`  (push A) : Take the first element at the top of B and put it at the top of A. Do nothing if B is empty.
@@ -46,14 +48,14 @@ This project comprises an interesting case study regarding sorting algorithms an
 The main objective of the `push_swap` is to print to `STDOUT` the instructions required to sort the stack A, which must be given as the program's argument. Each instruction must be followed by a line break (\n). The stack A must be sorted with its lowest element at the top, while stack B must be empty.
 
     $ ARG='4 0 1 3 2'; ./push_swap $ARG
-
-    `pb`
-    `pb`
-    `sa`
-    `ra`
-    `pa`
-    `pa`
-    `ra`
+    
+`pb`
+`pb`
+`sa`
+`ra`
+`pa`
+`pa`
+`ra`
  ## <p align="center">The Checker Program ✅</p>
 To help identify if a set of instructions is valid or not, you can run the `checker` program with the same stack as the `push_swap` program.
 The `checker` program will then accept the sorting instructions on `STDIN`, giving us the result `OK`, if the stack was indeed sorted, or `KO` otherwise.
