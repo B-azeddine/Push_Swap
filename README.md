@@ -7,7 +7,7 @@
 - [The Checker Program ✅](#the-checker-program-)
 - [Compilation](#Compilation)
 - [Testing 🧪](#testing-)
-- [Change N with the stack size to sort](#change-n-with-the-stack-size-to-sort)
+- [The Algorithm 🧠](#the-algorithm-)
 - [Sorting of a Small Stack 📊](#Sorting-of-a-Small-Stack-)
 - [Sorting of a large Stack 📊](#Sorting-of-a-large-Stack-)
 - [Objectives 🎯](#objectives-)
@@ -98,10 +98,11 @@ Running with the `--checker` option will invoke the checker program to check if 
 Running with the `--count` option will count the number of instructions needed to sort the stack with the wc program.
 The visual tests can be seen with the help of Emmanuel Ruaud testing Python script. His work is truly helpful, and I encourage you to star it at push_swap_visualizer. To run it, simply run the following command:
 
-## <p align="center">Change N with the stack size to sort</p>
+        Change <N> with the stack size to sort
+        python3 pyviz.py `perl -e "use List::Util 'shuffle'; print join(' ', shuffle(0..(<N> - 1)))"`
 
-python3 pyviz.py `perl -e "use List::Util 'shuffle'; print join(' ', shuffle(0..(<N> - 1)))"`
-The Algorithm
+## <p align="center">The Algorithm 🧠</p>
+
 ![push_swap_large](https://github.com/B-azeddine/push_swap_final/assets/74467756/fd412777-50ed-4af0-a0d6-bdaef1acba55)
 
 The least amount of moves with two stacks, which explains how we can sort a stack with 5 numbers or fewer.
