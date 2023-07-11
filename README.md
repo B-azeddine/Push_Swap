@@ -50,12 +50,19 @@ The main objective of the `push_swap` is to print to `STDOUT` the instructions r
     $ ARG='4 0 1 3 2'; ./push_swap $ARG
     
 `pb`
+
 `pb`
+
 `sa`
+
 `ra`
+
 `pa`
+
 `pa`
+
 `ra`
+
  ## <p align="center">The Checker Program ✅</p>
 To help identify if a set of instructions is valid or not, you can run the `checker` program with the same stack as the `push_swap` program.
 The `checker` program will then accept the sorting instructions on `STDIN`, giving us the result `OK`, if the stack was indeed sorted, or `KO` otherwise.
