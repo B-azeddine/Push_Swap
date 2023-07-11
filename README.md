@@ -3,10 +3,11 @@ _Swap push is strange, isn't it???_
 ![push_swap_small](https://github.com/B-azeddine/push_swap_final/assets/74467756/a7c4c2b9-05a9-47c8-9be3-723b05a7941a)
 
 A visual example of push_swap with a small stack
+
 ##  <p align="center">Index👈</p>
 
-- [Project Overview💡](#Project-Overview)
-- [The Push Swap Program 💻](#The-Push-Swap-Program)
+- [Project Overview💡](#project-pverview)
+- [The Push Swap Program 💻](#The-push-swap-program)
 - [The Checker Program ✅](#The-Checker-Program)
 - [Compilation](#Compilation)
 - [Testing 🧪](#Testing)
