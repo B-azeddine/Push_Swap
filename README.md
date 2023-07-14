@@ -16,7 +16,9 @@
 ## <p align="center">Project Overview 💡</p>
 
 _Swap push is strange, isn't it???_
-![push_swap_small](https://github.com/B-azeddine/push_swap_final/assets/74467756/a7c4c2b9-05a9-47c8-9be3-723b05a7941a)
+
+![push_swap_small](https://github.com/B-azeddine/Push_Swap/assets/74467756/4bbead8b-13df-41b6-a348-ae24445b1ddc)
+
 
 A visual example of push_swap with a small stack
 
@@ -105,7 +107,8 @@ To run it, simply run the following command:
 
 ## <p align="center">The Algorithm 🧠</p>
 
-![push_swap_large](https://github.com/B-azeddine/push_swap_final/assets/74467756/fd412777-50ed-4af0-a0d6-bdaef1acba55)
+![push_swap_large](https://github.com/B-azeddine/Push_Swap/assets/74467756/f273074b-a293-4fe9-bf20-5c352731aed6)
+
 
 The least amount of moves with two stacks, which explains how we can sort a stack with 5 numbers or fewer.
 
